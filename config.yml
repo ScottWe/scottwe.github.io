@@ -1,5 +1,5 @@
-baseURL: "https://pascalmichaillat.org/hugo-website/" 
-title: Moritz-Maria von Igelfeld
+baseURL: "https://scottwe.github.io" 
+title: Scott Wesley
 theme: PaperMod
 
 enableInlineShortcodes: true
@@ -29,9 +29,8 @@ menu:
           weight: 6
 
 params:
-    description: "This website hosts Moritz-Maria von Igelfeld's research papers, books, course materials, data, curriculum vitae, and contact information."
-    author: Moritz-Maria von Igelfeld
-    # googleAnalyticsID: "G-XXXXX"
+    description: "This website describes the research and academic work of Scott Wesley."
+    author: Scott Wesley
     DateFormat: "January 2006"
     defaultTheme: light
     hideFooter: false
@@ -54,8 +53,8 @@ params:
     math: true
     profileMode:
           enabled: true
-          title: Professor Dr von Igelfeld
-          subtitle: "I am a Professor in the Institute of Romance Philology at the University of Regensburg, Germany. My research focuses on Portuguese irregular verbs. I was a doctoral student of Professor Dr Dieter Vogelsang in Munich, and later a second assistant of Professor Walter Schoeffler-Henschell at the University of Wiesbaden."
+          title: Scott Wesley (PhD Student)
+          subtitle: "I am a PhD Candidate in the department of Mathematics at Dalhousie University under the supervision of Dr. Neil Julien Ross. My research interests include quantum computing, categorical algebra, computational algebra, and formal methods."
           imageUrl: "picture.jpeg"
           imageWidth: 160
           imageHeight: 160
@@ -76,28 +75,18 @@ params:
               url: https://en.wikipedia.org/wiki/Moritz-Maria_von_Igelfeld_(character)
 
     socialIcons:
-        - name: CV
-          url: cv.pdf
         - name: Email
-          url: mailto:user@gmail.com
-        - name: Zoom
-          url: https://www.zoom.us/my/user
-        - name: Location
-          url: location/
-        - name: Office Hours
-          url: officehours/
+          url: mailto:scott.wesley@dal.ca
         - name: Google Scholar
-          url: https://scholar.google.com/citations?user=user
+          url: https://scholar.google.com/citations?user=user&user=vLuVbrYAAAAJ
+        - name: ResearchGate
+          url: https://www.researchgate.net/profile/Scott-Wesley
         - name: GitHub
-          url: https://github.com/user
-        - name: YouTube
-          url: https://www.youtube.com/@user
-        - name: Substack
-          url: https://user.substack.com
-        - name: Twitter
-          url: https://x.com/user
-        - name: Bluesky
-          url: https://bsky.app/profile/user.bsky.social
+          url: https://github.com/scottwe
+        - name: LinkedIn
+          url: https://www.linkedin.com/in/scott-wesley-340966419
+        - name: stackoverflow
+          url: https://stackoverflow.com/users/6599143/scottwe
 
     assets:
         disableScrollBarStyle: true
@@ -105,7 +94,7 @@ params:
         hiddenInList: false
         hiddenInSingle: true
     label:
-      text: "Moritz-Maria von Igelfeld"
+      text: "Scott Wesley"
       icon: favicon.ico
       iconHeight: 18
 
