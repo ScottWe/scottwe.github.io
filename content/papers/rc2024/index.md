@@ -40,13 +40,13 @@ summary: "This paper introduces a transpiler between OpenQASM and Quipper inspir
 
 ```latex
 @inproceedings{S2024,
-author    = {Scott Wesley},
-title     = {{LinguaQuanta}: Towards a Quantum Transpiler Between {OpenQASM} and {Quipper}},
-booktitle = {Reversible Computation 16th International Conference, RC 2024, Toruń, Poland, July 4–5, 2024, Proceedings},
-year      = {2024},
-publisher = {Springer Nature Switzerland},
-doi       = {10.1007/978-3-031-62076-8},
-pages     = {142--160},
+author    = "Scott Wesley",
+title     = "{LinguaQuanta}: Towards a Quantum Transpiler Between {OpenQASM} and {Quipper}",
+booktitle = "Reversible Computation 16th International Conference, RC 2024, Toruń, Poland, July 4–5, 2024, Proceedings",
+year      = "2024",
+publisher = "Springer Nature Switzerland",
+doi       = "10.1007/978-3-031-62076-8",
+pages     = "142--160",
 }
 ```
 

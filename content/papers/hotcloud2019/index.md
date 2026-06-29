@@ -36,12 +36,12 @@ We use a load balancing example to show that RaMP can effectively support such a
 
 ```latex
 @inproceedings {MLMWBSWC2018,
-author    = {Babar Naveed Memon and Xiayue Charles Lin and Arshia Mufti and Arthur Scott Wesley and Tim Brecht and Kenneth Salem and Bernard Wong and Benjamin Cassell},
-title     = {{RaMP}: A Lightweight {RDMA} Abstraction for Loosely Coupled Applications},
-booktitle = {10th {USENIX} Workshop on Hot Topics in Cloud Computing (HotCloud 18)},
-year      = {2018},
-publisher = {{USENIX} Association},
-url       = {https://www.usenix.org/conference/hotcloud18/presentation/memon}
+author    = "Babar Naveed Memon and Xiayue Charles Lin and Arshia Mufti and Arthur Scott Wesley and Tim Brecht and Kenneth Salem and Bernard Wong and Benjamin Cassell",
+title     = "{RaMP}: A Lightweight {RDMA} Abstraction for Loosely Coupled Applications",
+booktitle = "10th {USENIX} Workshop on Hot Topics in Cloud Computing (HotCloud 18)",
+year      = "2018",
+publisher = "{USENIX} Association",
+url       = "https://www.usenix.org/conference/hotcloud18/presentation/memon"
 }
 ```
 
