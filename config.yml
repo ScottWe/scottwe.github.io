@@ -12,20 +12,23 @@ taxonomies:
 
 menu:
     main:
-        - name: Books
-          url: books/
-          weight: 5 
+        - name: Projects
+          url: projects/
+          weight: 1
         - name: Papers
           url: papers/
           weight: 2
-        - name: Courses
-          url: courses/
+        - name: Preprints
+          url: preprints/
           weight: 3
-        - name: Data
-          url: data/
-          weight: 4 
-        - name: Blog
-          url: https://en.wikipedia.org/wiki/Moritz-Maria_von_Igelfeld_(character)
+        - name: Outreach
+          url: outreach/
+          weight: 4
+        - name: Education
+          url: education/
+          weight: 5
+        - name: Service
+          url: service/
           weight: 6
 
 params:
@@ -43,7 +46,7 @@ params:
     ShowBreadCrumbs: false
     ShowCodeCopyButtons: true
     ShowAllPagesInArchive: false
-    MainSections: ["books","courses","papers","data"]
+    MainSections: ["projects","papers","outreach","service"]
     ShowToc: false
     disableScrollToTop: true
     TocOpen: true
@@ -59,24 +62,24 @@ params:
           imageWidth: 160
           imageHeight: 160
           buttons:
+            - name: Projects
+              url: projects/
             - name: Papers
               url: papers/
-            - name: Data
-              url: data/
-            - name: Books
-              url: books/
-            - name: Courses
-              url: courses/
-            - name: Tags
-              url: tags/
-            - name: Archive
-              url: archive/
-            - name: Blog
-              url: https://en.wikipedia.org/wiki/Moritz-Maria_von_Igelfeld_(character)
+            - name: Preprints
+              url: preprints/
+            - name: Outreach
+              url: outreach/
+            - name: Education
+              url: education/
+            - name: Service
+              url: service/
 
     socialIcons:
         - name: Email
           url: mailto:scott.wesley@dal.ca
+        - name: cv
+          url: cv.pdf
         - name: Google Scholar
           url: https://scholar.google.com/citations?user=user&user=vLuVbrYAAAAJ
         - name: ResearchGate
