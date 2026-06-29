@@ -32,7 +32,7 @@ menu:
           weight: 6
 
 params:
-    description: "This website describes the research and academic work of Scott Wesley."
+    description: "This website documents the research and academic work of Scott Wesley."
     author: Scott Wesley
     DateFormat: "January 2006"
     defaultTheme: light
