@@ -17,6 +17,8 @@ description: "Preprints by Scott Wesley"
 
 ### Manuscripts in Progress
 
-* Scott Wesley, "*Free Control Functors*". ([Slides](controls.pdf))
+* Scott Wesley, "*Free control functors*". ([Slides](controls.pdf))
 
-* Neil J. Ross and Scott Wesley, "*Parameterized Quantum Circuit Semantics Through Enriched Categories*". ([Draft](semantics.pdf))
+* William Schober and Scott Wesley, "*Towards a quantum compiler with generalized control*". ([Draft](iwqc2026.pdf))
+
+* Neil J. Ross and Scott Wesley, "*Parameterized quantum circuit semantics through enriched categories*". ([Draft](semantics.pdf))
