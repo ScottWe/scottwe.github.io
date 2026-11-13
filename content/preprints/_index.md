@@ -9,13 +9,11 @@ description: "Preprints by Scott Wesley"
 
 ### Manuscripts Under Review
 
-* William Schober and Scott Wesley, "*A complete equational theory for quantum circuits with generalized control*", submitted to 23rd International Conference on Quantum Physics and Logic. ([Available here](https://cqi.inf.usi.ch/publications/Hierarchical_QPL2026.pdf))
-
-* Fahimeh Bayeh, Linh Dinh, Dongho Lee, and Scott Wesley, "*Bridging the quantum divide: A learning-centric quantum hackathon for underrepresented students*", submitted to 2025 IEEE International Conference on Quantum Computing and Engineering. ([Available here](https://arxiv.org/abs/2604.24995))
-
 * Louis Bu, Sarah Faridi, Iresha M. Hewalage, Thiago Holleben, Hasan Mahmood, Dham Veer, Kyle Wang, and Scott Wesley, "*When are Morse resolutions polyhedral?*", submitted to Examples and Counterexamples. ([Available here](https://arxiv.org/abs/2505.08580))
 
 ### Manuscripts in Progress
+
+* Fahimeh Bayeh, Linh Dinh, Dongho Lee, and Scott Wesley, "*Bridging the quantum divide: A learning-centric quantum hackathon for underrepresented students*". ([Draft](https://arxiv.org/abs/2604.24995))
 
 * Scott Wesley, "*Free control functors*". ([Slides](controls.pdf))
 
