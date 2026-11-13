@@ -13,7 +13,7 @@ description: "Perfessional service roles held by Scott Wesley."
 
 ## Conference Program Committees
 
-* The Sixth International Workshop on Programming Languages for Quantum Computing (2026).
+* **Committee Member** for the 6th International Workshop on Programming Languages for Quantum Computing (2026).
 
 ## Academic Committees
 
