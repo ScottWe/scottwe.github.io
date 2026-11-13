@@ -37,7 +37,7 @@ summary: "This paper derives the first sound and complete equational theory for 
 ##### Citation
 
 ```latex
-@article{MRS2024,
+@article{ARW2024,
 title     = {A Sound and Complete Equational Theory for 3-Qubit {Toffoli}-{Hadamard} Circuits},
 volume    = {406},
 doi       = {10.4204/eptcs.406.1},
