@@ -5,7 +5,6 @@ tags: ["model checking","parameterized systems","compositionality","smart contra
 author: ["Scott Wesley","Maria Christakis","Jorge A. Navas","Richard Trefler","Valentin Wüstholz","Arie Gurfinkel"]
 description: "This paper presents SmartACE: an automated framework for smart contract verification. SmartACE builds on the theory laid out in our SAS2021 paper, and employs many verification technqiues." 
 summary: "This paper presents SmartACE: an automated framework for smart contract verification. SmartACE builds on the theory laid out in our SAS2021 paper, and employs many verification technqiues."  
-
 ---
 
 ---

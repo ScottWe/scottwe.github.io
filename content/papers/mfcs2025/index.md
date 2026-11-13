@@ -5,7 +5,6 @@ tags: ["quantum computing","quantum circuits","parameterized verification","vari
 author: ["Neil J. Ross","Scott Wesley"]
 description: "This paper proposes a cutoff-based procedure which reduces the problem of verifying the equivalence of parameterized quantum circuits to finitely many parameter-free instances." 
 summary: "This paper proposes a cutoff-based procedure which reduces the problem of verifying the equivalence of parameterized quantum circuits to finitely many parameter-free instances." 
-
 ---
 
 ---

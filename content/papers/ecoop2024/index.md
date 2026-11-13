@@ -5,7 +5,6 @@ tags: ["software verification","invariant synthesis","model-checking","compositi
 author: ["Scott Wesley","Maria Christakis","Jorge A. Navas","Richard Trefler","Valentin Wüstholz","Arie Gurfinkel"]
 description: "This paper introduces IPS-MP to extend high-level languages with minimal synthesis features to guide analysis. IPS-MP is efficiently decidable in the Boolean case, and reduces to CHC-solving." 
 summary: "This paper introduces IPS-MP to extend high-level languages with minimal synthesis features to guide analysis. IPS-MP is efficiently decidable in the Boolean case, and reduces to CHC-solving." 
-
 ---
 
 ---

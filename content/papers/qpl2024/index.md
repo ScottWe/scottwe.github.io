@@ -5,7 +5,6 @@ tags: ["quantum computing","quantum circuits","equational theory","toffoli-hadam
 author: ["Matthew Amy","Neil J. Ross","Scott Wesley"]
 description: "This paper derives the first sound and complete equational theory for 3-qubit Toffoli-Hadamard circuits. Some minimality and complexity implications are discussed." 
 summary: "This paper derives the first sound and complete equational theory for 3-qubit Toffoli-Hadamard circuits. Some minimality and complexity implications are discussed." 
-
 ---
 
 ---
@@ -13,6 +12,7 @@ summary: "This paper derives the first sound and complete equational theory for 
 ##### Download
 
 + [Paper](https://arxiv.org/pdf/2407.11152)
++ [Online appendix](https://arxiv.org/src/2407.11152v3/anc/supplement.pdf)
 
 ---
 

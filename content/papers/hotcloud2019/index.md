@@ -5,7 +5,6 @@ tags: ["distributed systems","rdma","memory models","database"]
 author: ["Babar Naveed Memon","Xiayue Charles Lin","Arshia Mufti","Arthur Scott Wesley","Tim Brecht","Kenneth Salem","Bernard Wong","Benjamin Cassell"]
 description: "This paper proposes a RDMA-based approach to shared storage for loosely coupled applications. The approach is demonstrated through a load-balancing application." 
 summary: "This paper proposes a RDMA-based approach to shared storage for loosely coupled applications. The approach is demonstrated through a load-balancing application." 
-
 ---
 
 ---

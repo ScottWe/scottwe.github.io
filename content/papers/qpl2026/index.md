@@ -3,9 +3,8 @@ title: "A Complete Equational Theory for Quantum Circuits with Generalized Contr
 date: 2026-10-05
 tags: ["quantum computing","quantum circuits","equational theory","quantum control"]
 author: ["William Schober","Scott Wesley"]
-description: "This paper introduces the notion of quantum circuits with generalized control and finds a complete equational theory for these circuits. It is shown how generalized control relates to quantum compilation."
-summary: "This paper introduces the notion of quantum circuits with generalized control and finds a complete equational theory for these circuits. It is shown how generalized control relates to quantum compilation." 
-
+description: "This paper introduces the notion of quantum circuits with generalized control and finds a complete equational theory for these circuits."
+summary: "This paper introduces the notion of quantum circuits with generalized control and finds a complete equational theory for these circuits." 
 ---
 
 ---

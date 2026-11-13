@@ -5,7 +5,6 @@ tags: ["quantum computing","source-to-source translation","quantum circuits","pi
 author: ["Scott Wesley"]
 description: "This paper introduces a transpiler between OpenQASM and Quipper inspired by category theory and the UNIX philosophy. Translations challenges are discussed and solutions are proposes." 
 summary: "This paper introduces a transpiler between OpenQASM and Quipper inspired by category theory and the UNIX philosophy. Translations challenges are discussed and solutions are proposes." 
-
 ---
 
 ---

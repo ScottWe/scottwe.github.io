@@ -5,7 +5,6 @@ tags: ["model checking","parameterized systems","compositionality","smart contra
 author: ["Scott Wesley","Maria Christakis","Jorge A. Navas","Richard Trefler","Valentin Wüstholz","Arie Gurfinkel"]
 description: "This paper introduces a new approach to smart contract verification. The key insights are to sequentialize the transaction order and to abstract the state space with representative users." 
 summary: "This paper introduces a new approach to smart contract verification. The key insights are to sequentialize the transaction order and to abstract the state space with representative users." 
-
 ---
 
 ---
