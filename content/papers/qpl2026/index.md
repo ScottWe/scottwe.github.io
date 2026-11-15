@@ -9,13 +9,13 @@ summary: "This paper introduces the notion of quantum circuits with generalized 
 
 ---
 
-##### Download
+#### Download
 
 + [Paper](https://arxiv.org/pdf/2611.07207v1)
 
 ---
 
-##### Abstract
+#### Abstract
 
  Controlled subcircuits are commonplace in quantum algorithms as they represent the quantum analogue of branching statements (`if then`).
  We introduce a generalization of controlled subcircuits in the form of a binary operation which sends pairs of unitary quantum circuits to a generalized controlled operation, whose semantics are based on matrix exponentials and logarithms.
@@ -24,13 +24,13 @@ summary: "This paper introduces the notion of quantum circuits with generalized 
   
 ---
 
-##### Figure 5: An equational theory for the category of hierarchical quantum circuits. 
+#### Figure 5: An equational theory for the category of hierarchical quantum circuits. 
 
 ![](theory.png)
 
 ---
 
-##### Citation
+#### Citation
 
 ```latex
 @article{SW2026,
@@ -45,3 +45,5 @@ month     = Nov,
 pages     = {283--349}
 }
 ```
+
+---

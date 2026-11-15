@@ -9,13 +9,13 @@ summary: "This paper introduces a transpiler between OpenQASM and Quipper inspir
 
 ---
 
-##### Download
+#### Download
 
 + [Paper](https://arxiv.org/pdf/2404.08147)
 
 ---
 
-##### Abstract
+#### Abstract
 
  As quantum computing evolves, many important questions emerge, such as how best to represent quantum programs, and how to promote interoperability between quantum program analysis tools.
  These questions arise naturally in the design of quantum transpilers, which translate between quantum programming languages.
@@ -29,13 +29,13 @@ summary: "This paper introduces a transpiler between OpenQASM and Quipper inspir
  
 ---
 
-##### Figure 4: A DFA to infer the state of a Quipper wire. The alphabet consists of Init, Term, and Use. Missing edges indicate one-way transitions to an error state.
+#### Figure 4: A DFA to infer the state of a Quipper wire. The alphabet consists of Init, Term, and Use. Missing edges indicate one-way transitions to an error state.
 
 ![](quipper.png)
 
 ---
 
-##### Citation
+#### Citation
 
 ```latex
 @inproceedings{S2024,
@@ -49,8 +49,10 @@ pages     = "142--160",
 }
 ```
 
-##### Related material
+#### Related material
 
 + [Presentation slides](slides.pdf)
 + [Codebase](https://github.com/onestruggler/qasm-quipper)
 + [Application](https://arxiv.org/pdf/2311.10686)
+
+---

@@ -9,13 +9,13 @@ summary: "This paper introduces IPS-MP to extend high-level languages with minim
 
 ---
 
-##### Download
+#### Download
 
 + [Paper](https://arxiv.org/pdf/2407.08455)
 
 ---
 
-##### Abstract
+#### Abstract
 
 A growing trend in program analysis is to encode verification conditions within the language of the input program.
 This simplifies the design of analysis tools by utilizing off-the-shelf verifiers, but makes communication with the underlying solver more challenging.
@@ -35,7 +35,7 @@ We realize these reductions with an efficient IPS-MP-solver based on SeaHorn, an
 
 ---
 
-##### Citation
+#### Citation
 
 ```latex
 @inproceedings{WCNTWG2024,
@@ -49,7 +49,10 @@ pages     = {43:1--43:30},
 }
 ```
 
-##### Related material
+#### Related material
 
 + [Presentation slides](slides.pdf)
 + [Codebase](https://github.com/seahorn/seahorn)
+
+---
+

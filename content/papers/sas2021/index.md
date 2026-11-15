@@ -9,13 +9,13 @@ summary: "This paper introduces a new approach to smart contract verification. T
 
 ---
 
-##### Download
+#### Download
 
 + [Paper](https://arxiv.org/pdf/2107.08583)
 
 ---
 
-##### Abstract
+#### Abstract
 
 Solidity smart contracts are programs that manage up to 2^160 users on a blockchain.
 Verifying a smart contract relative to all users is intractable due to state explosion.
@@ -30,13 +30,13 @@ We implement local bundle abstraction in SmartACE, and show order-of-magnitude s
 
 ---
 
-##### Table 1: Experimental results for SmartACE. All reported times are in seconds.
+#### Table 1: Experimental results for SmartACE. All reported times are in seconds.
 
 ![](performance.png)
 
 ---
 
-##### Citation
+#### Citation
 
 ```latex
 @inproceedings{WCNTWG2021,
@@ -52,8 +52,10 @@ pages     = {429--452},
 
 ---
 
-##### Related material
+#### Related material
 
 + [Presentation slides](slides.pdf)
 + [Non-technical summary](https://seahorn.github.io/smartace/verification/model%20checking/local%20reasoning/2020/07/17/local-reasoning-3.html)
 + [Codebase](https://github.com/contract-ace/smartace)
+
+---

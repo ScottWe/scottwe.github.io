@@ -9,13 +9,13 @@ summary: "This paper presents SmartACE: an automated framework for smart contrac
 
 ---
 
-##### Download
+#### Download
 
 + [Paper](https://mariachris.github.io/Pubs/VMCAI-2022.pdf)
 
 ---
 
-##### Abstract
+#### Abstract
 
 Solidity smart contract allow developers to formalize financial agreements between users.
 Due to their monetary nature, smart contracts have been the target of many high-profile attacks.
@@ -29,13 +29,13 @@ We report on our experience integrating Scribble with SmartACE, and describe the
 
 ---
 
-##### Figure 3: The architecture of SmartACE for integration with SeaHorn for model checking and libFuzzer for greybox fuzzing.
+#### Figure 3: The architecture of SmartACE for integration with SeaHorn for model checking and libFuzzer for greybox fuzzing.
 
 ![](overview.png)
 
 ---
 
-##### Citation
+#### Citation
 
 ```latex
 @inproceedings{WCNTWG2022,
@@ -49,7 +49,9 @@ pages     = {425-449},
 }
 ```
 
-##### Related material
+#### Related material
 
 + [Presentation slides](slides.pdf)
 + [Codebase](https://github.com/contract-ace/verify-openzeppelin)
+
+---

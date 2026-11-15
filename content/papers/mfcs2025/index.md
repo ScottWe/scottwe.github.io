@@ -9,13 +9,13 @@ summary: "This paper proposes a cutoff-based procedure which reduces the problem
 
 ---
 
-##### Download
+#### Download
 
 + [Paper](https://arxiv.org/pdf/2506.20985)
 
 ---
 
-##### Abstract
+#### Abstract
 
  Many promising quantum algorithms in economics, medical science, and material science rely on circuits that are parameterized by a large number of angles.
  To ensure that these algorithms are efficient, these parameterized circuits must be heavily optimized.
@@ -28,7 +28,7 @@ summary: "This paper proposes a cutoff-based procedure which reduces the problem
 
 ---
 
-##### Citation
+#### Citation
 
 ```latex
 @inproceedings{RS2025,
@@ -42,6 +42,8 @@ pages     = {85:1--85:19},
 }
 ```
 
-##### Related material
+#### Related material
 
 + [Presentation slides](slides.pdf)
+
+---

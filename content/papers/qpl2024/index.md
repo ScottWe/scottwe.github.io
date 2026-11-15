@@ -9,14 +9,14 @@ summary: "This paper derives the first sound and complete equational theory for 
 
 ---
 
-##### Download
+#### Download
 
 + [Paper](https://arxiv.org/pdf/2407.11152)
 + [Online appendix](https://arxiv.org/src/2407.11152v3/anc/supplement.pdf)
 
 ---
 
-##### Abstract
+#### Abstract
 
  We give a sound and complete equational theory for 3-qubit quantum circuits over the Toffoli-Hadamard gate set { X, CX, CCX, H }.
  That is, we introduce a collection of true equations among Toffoli-Hadamard circuits on three qubits that is sufficient to derive any other true equation between such circuits.
@@ -28,13 +28,13 @@ summary: "This paper derives the first sound and complete equational theory for 
   
 ---
 
-##### Figure 2: A diagrammatic summary of the Tietze transformations used to obtain a presentation for W(E8). 
+#### Figure 2: A diagrammatic summary of the Tietze transformations used to obtain a presentation for W(E8). 
 
 ![](proof.png)
 
 ---
 
-##### Citation
+#### Citation
 
 ```latex
 @article{ARW2024,
@@ -50,7 +50,9 @@ pages     = {1--43}
 }
 ```
 
-##### Related material
+#### Related material
 
 + [Presentation slides](slides.pdf)
 + [Codebase](https://github.com/meamy/tietze)
+
+---

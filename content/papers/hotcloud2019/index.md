@@ -9,13 +9,13 @@ summary: "This paper proposes a RDMA-based approach to shared storage for loosel
 
 ---
 
-##### Download
+#### Download
 
 + [Paper](https://www.usenix.org/system/files/conference/hotcloud18/hotcloud18-paper-memon.pdf)
 
 ---
 
-##### Abstract
+#### Abstract
 
 RDMA can be used to implement a shared storage abstraction for distributed applications.
 We argue that for loosely coupled applications, such an approach is overkill.
@@ -25,13 +25,13 @@ We use a load balancing example to show that RaMP can effectively support such a
 
 ---
 
-##### Figure 3: Transfer of Ownership in RAMP
+#### Figure 3: Transfer of Ownership in RAMP
 
 ![](transfer.png)
 
 ---
 
-##### Citation
+#### Citation
 
 ```latex
 @inproceedings {MLMWBSWC2018,
@@ -46,6 +46,8 @@ url       = "https://www.usenix.org/conference/hotcloud18/presentation/memon"
 
 ---
 
-##### Related material
+#### Related material
 
 + [Presentation slides](https://www.usenix.org/sites/default/files/conference/protected-files/hotcloud18_slides_memon.pdf)
+
+---
