@@ -57,5 +57,6 @@ pages     = {429--452},
 + [Presentation slides](slides.pdf)
 + [Non-technical summary](https://seahorn.github.io/smartace/verification/model%20checking/local%20reasoning/2020/07/17/local-reasoning-3.html)
 + [Codebase](https://github.com/contract-ace/smartace)
++ [Talk](https://youtu.be/tvVKOsB74G4)
 
 ---

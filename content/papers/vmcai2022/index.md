@@ -53,5 +53,6 @@ pages     = {425-449},
 
 + [Presentation slides](slides.pdf)
 + [Codebase](https://github.com/contract-ace/verify-openzeppelin)
++ [Talk](https://youtu.be/MSlR7OQ-_C4)
 
 ---
