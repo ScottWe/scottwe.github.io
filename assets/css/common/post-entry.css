@@ -1,3 +1,5 @@
+/* Style for entry img adapted from: https://github.com/MaartenGoos/website/ */
+
 .first-entry {
     position: relative;
     display: flex;
@@ -93,6 +95,30 @@
     font-size: var(--entrysize);
     margin-bottom: var(--gap);
     text-align: center;
+}
+
+.post-entry:has(.entry-cover) {
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+}
+
+.post-entry:has(.entry-cover) .entry-cover {
+    flex-shrink: 0;
+    margin-bottom: 0;
+    margin-right: var(--gap);
+    width: 130px;
+}
+
+.post-entry:has(.entry-cover) .entry-cover img {
+    width: 130px;
+    height: auto;
+    border-radius: var(--radius);
+}
+
+.post-entry .entry-body {
+    flex: 1;
+    min-width: 0;
 }
 
 .entry-cover img {
