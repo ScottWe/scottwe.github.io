@@ -49,6 +49,8 @@ pages     = "142--160",
 }
 ```
 
+---
+
 #### Related material
 
 + [Presentation slides](slides.pdf)
