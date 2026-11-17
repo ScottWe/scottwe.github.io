@@ -75,8 +75,8 @@ We would like to make use of the $E8$-lattice to derive new circuit synthesis al
 + [[E1992](https://doi.org/10.1201/9781439865699)] A reference text on automatic groups.
 + [[G2009](https://etd.ohiolink.edu/acprod/odb_etd/ws/send_file/send?accession=toledo1250224470)] A thesis on the complexity of Toffoli circuits via group presentations.
 + [[G2020](https://cp4space.hatsya.com/2020/05/10/minimalistic-quantum-computation/)] Observes that a subgroup of $\mathcal{G}_Q$ enacts $W( E_8 )$.
-+ [[H1990](https://doi.org/10.1017/CBO9780511623646)] An reference text on finite Coxeter groups.
-+ [[KBRY2015](https://arxiv.org/pdf/1510.03888)] Includes an summary of lattice-based synthesis techniques up-to 2015.
++ [[H1990](https://doi.org/10.1017/CBO9780511623646)] A reference text on finite Coxeter groups.
++ [[KBRY2015](https://arxiv.org/pdf/1510.03888)] Includes a summary of lattice-based synthesis techniques up-to 2015.
 + [[LRS2021](https://arxiv.org/pdf/2106.01175)] Provides a presentation for $\mathrm{O}( \mathbb{Z}[ 1/ 2 ])$.
 + [[P2011](https://arxiv.org/pdf/0904.3691)] An earlier paper connecting $\mathcal{G}_Q$ to $W( E_8 )$.
 + [[S2003](https://arxiv.org/pdf/quant-ph/0301040)] An alternatives proof that $\mathcal{G}_Q$ is universal for quantum computation.
