@@ -1,8 +1,8 @@
 ---
 title: 'The Geometry of Toffoli-Hadamard Circuits'
-tags: ["keyword 1","keyword 2","keyword 3","keyword 4","keyword 5","keyword 6","keyword 7","keyword 8"]
-description: "Toffoli-Hadamard circuits can be viewed as the simplest class of universal quantum circuits. The goal of this project is to undeerstand their relations and complexity through Coxeter geometry."
-summary: "Toffoli-Hadamard circuits can be viewed as the simplest class of universal quantum circuits. The goal of this project is to undeerstand their relations and complexity through Coxeter geometry."
+tags: ["quantum computing","quantum circuits","equational theory","toffoli-hadamard","E8 lattice","lattice","circuit synthesis","circuit complexity"]
+description: "Toffoli-Hadamard circuits can be viewed as the simplest class of universal quantum circuits. The goal of this project is to understand their relations and complexity through Coxeter geometry."
+summary: "Toffoli-Hadamard circuits can be viewed as the simplest class of universal quantum circuits. The goal of this project is to understand their relations and complexity through Coxeter geometry."
 startYear: 2021
 hideAuthor: true
 cover:
@@ -14,7 +14,7 @@ cover:
 #### Contributors:
 
 + Scott Wesley :cat:
-+ Matthew Aamy (Simon Fraser University)
++ Matthew Amy (Simon Fraser University)
 + Neil J. Ross (Dalhousie University)
 
 ---
@@ -22,10 +22,10 @@ cover:
 #### Project overview
 
 Reversible computing is a model of computation in which each operation is invertible.
-The simplest reversible gate is the $X$-gate (also called a NOT gate), which permutes the states $\ket{0}$ and $\ket{1}$.
+The simplest reversible gate is the $X$-gate (also called a NOT gate), which permutes the basis states $\ket{0}$ and $\ket{1}$.
 A slightly more sophisticated construction is the reversible conditional statement $C( G )$, which applies the gate $G$ if and only if some *control wire* is in state $\ket{1}$.
 It was shown by Toffoli in 1980 [T1980] that all classical reversible circuits could be constructed using only the following gates.
-$$\mathcal{G}_C \lbrace X, C( X ), C( C( X ) ) \rbrace$$
+$$\mathcal{G}_C = \lbrace X, C( X ), C( C( X ) ) \rbrace$$
 Since the Hadamard gate $H$ sends $\ket{0}$ to $\ket{+}$ and $\ket{1}$ to $\ket{-}$, the following gate set can then be thought of as classical reversible computing extended with the ability to prepare uniform superpositions.
 $$\mathcal{G}_Q = \lbrace X, C( X ), C( C( X ) ), H \rbrace,$$
 Circuits over $\mathcal{G}_Q$ are referred to as *Toffoli-Hadamard circuits*, and can be thought of as the simplest truly quantum circuit language.

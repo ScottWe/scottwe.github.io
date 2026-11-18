@@ -51,7 +51,7 @@ The goal of this project is to reconcile these three points of view, and to use 
 
 + [[RW2025](https://arxiv.org/pdf/2607.16114)] Uses enriched category theory to fundamentally relate control functors to special commutative $\dagger$-Frobenius modules.
 + [[SW2026a](/preprints/iwqc2026.pdf)] Explores compilation in light of control functors and generalized control.
-+ [[SW2026b](/papers/qpl2026/)] Corrects the soundness of [S2024]; proves completeness of the relations; estbalishes connections between matrix exponentials and control functors.
++ [[SW2026b](/papers/qpl2026/)] Corrects the soundness of [S2024]; proves completeness of the relations; establishes connections between matrix exponentials and control functors.
 + [[SW2026c](https://arxiv.org/pdf/2609.26591)] Applies generalized control to gain new insights on adder circuits.
 
 ---
