@@ -3,6 +3,7 @@ title: 'The Geometry of Toffoli-Hadamard Circuits'
 tags: ["quantum computing","quantum circuits","equational theory","toffoli-hadamard","E8 lattice","lattice","circuit synthesis","circuit complexity"]
 description: "Toffoli-Hadamard circuits can be viewed as the simplest class of universal quantum circuits. The goal of this project is to understand their relations and complexity through Coxeter geometry."
 summary: "Toffoli-Hadamard circuits can be viewed as the simplest class of universal quantum circuits. The goal of this project is to understand their relations and complexity through Coxeter geometry."
+date: 2021-01-01
 startYear: 2021
 hideAuthor: true
 cover:

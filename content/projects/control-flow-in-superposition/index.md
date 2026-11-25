@@ -3,6 +3,7 @@ title: 'Control Flow in Superposition'
 tags: ["quantum computing","quantum circuits","equational theory","quantum control","enrichment","quantum compilation","Frobenius algebra"]
 description: "Control flow in superposition concerns quantum generalizations of condition statements. This phenomenon has been studied algebraically, categorically, and analytically. The project strives for a unified framework."
 summary: "Control flow in superposition concerns quantum generalizations of condition statements. This phenomenon has been studied algebraically, categorically, and analytically. The project strives for a unified framework."
+date: 2023-01-01
 startYear: 2023
 hideAuthor: true
 cover:

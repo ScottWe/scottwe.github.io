@@ -3,6 +3,7 @@ title: '{{ replace .File.ContentBaseName `-` ` ` | title }}'
 tags: ["keyword 1","keyword 2","keyword 3","keyword 4","keyword 5","keyword 6","keyword 7","keyword 8"]
 description: "Project description for search engines (less than 155 characters)" 
 summary: "Project summary for list page (less than 265 characters)"
+date: 1000-01-01
 startYear: 1000
 endYear: 1025
 hideAuthor: true

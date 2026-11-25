@@ -3,6 +3,7 @@ title: 'LinguaQuanta: A Quantum Circuit Transpiler'
 tags: ["quantum computing","source-to-source translation","quantum circuits","pipeline architecture","categorical specifications"]
 description: "LinguaQuanta is a collection of libraries, tools, and scripts to translate logical quantum circuits between Quipper and various subsets of the OpenQASM family of languages."
 summary: "LinguaQuanta is a collection of libraries, tools, and scripts to translate logical quantum circuits between Quipper and various subsets of the OpenQASM family of languages."
+date: 2023-01-01
 startYear: 2023
 hideAuthor: true
 cover:
